@@ -44,7 +44,7 @@
  */
 define('HDOM_TYPE_ELEMENT', 1);
 define('HDOM_TYPE_COMMENT', 2);
-define('HDOM_TYPE_TEXT',    3);
+define('HDOM_TYPE_TEXT',    3)
 define('HDOM_TYPE_ENDTAG',  4);
 define('HDOM_TYPE_ROOT',    5);
 define('HDOM_TYPE_UNKNOWN', 6);
